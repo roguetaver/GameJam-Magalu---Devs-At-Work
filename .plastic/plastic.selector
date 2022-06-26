@@ -1,0 +1,4 @@
+repository "Magalu-GameJam@Feij_o_Tropeiro@cloud"
+  path "/"
+    br "/main"
+    co "/main"
